@@ -1,3 +1,5 @@
+import sys
+input = sys.stdin.readline
 def main():
     
     # 접근 방법:
