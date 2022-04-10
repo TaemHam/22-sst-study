@@ -1,5 +1,5 @@
 # pypy3 176ms
-# 백트래킹 문제이지만, 재귀를 잘 못써서 모든 정보를 큐에 저장해놓고 BFS 처럼 풀었다.
+# 처리해야할 정보가 많지만 시뮬레이션 자체는 간단한 문제
 
 import sys
 input = sys.stdin.readline
